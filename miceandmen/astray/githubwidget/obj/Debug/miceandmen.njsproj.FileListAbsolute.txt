@@ -1,0 +1,2 @@
+C:\Users\Owner\Desktop\astray\githubwidget\obj\Debug\miceandmen.njsproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\astray\githubwidget\bin\Microsoft.NodejsTools.WebRole.dll

@@ -1,0 +1,3 @@
+C:\Users\Owner\Desktop\githubwidget\obj\Debug\GitHubWidget.njsprojAssemblyReference.cache
+C:\Users\Owner\Desktop\githubwidget\obj\Debug\GitHubWidget.njsproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\githubwidget\bin\Microsoft.NodejsTools.WebRole.dll

@@ -1,0 +1,10 @@
+
+{
+  "name": "Gang aft a-gley",
+  "version": "0.0.0",
+  "description": "To a Mouse",
+  "main": "widget.js",
+  "author": {
+    "name": "Robert Burns"
+  }
+}

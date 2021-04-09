@@ -1,0 +1,9 @@
+{
+  "name": "git-hub-widget",
+  "version": "0.0.0",
+  "description": "GitHubWidget",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
